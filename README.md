@@ -1,3 +1,10 @@
+# 环境
+* python 3.7
+* pygame 安装：  
+  ** ``pip install wheel``
+  ** https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame 下载 ``pygame‑1.9.3‑cp37‑cp37m‑win_amd64.whl``包
+  ** ``python -m pip install --user pygame‑1.9.3‑cp37‑cp37m‑win_amd64.whl``安装下载 的pygame whl包
+
 # 项目笔记
 ## 创建入口文件 `alien_invasion.py`
 ## 创建设置文件 `settings.py`，定义设置类 `Settings`
